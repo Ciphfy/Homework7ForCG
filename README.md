@@ -1,0 +1,3 @@
+-cd hm7
+-make clean
+-make
